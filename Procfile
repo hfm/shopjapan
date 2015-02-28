@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n man
+web: bin/hubot --adapter slack --name shopman

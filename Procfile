@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n shopjapanman
+web: bin/hubot -a slack -n man

@@ -1,1 +1,1 @@
-web: bin/hubot --adapter slack --name shopman
+bot: bundle exec ruboty

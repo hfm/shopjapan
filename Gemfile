@@ -1,0 +1,11 @@
+source "https://rubygems.org"
+
+gem "rake"
+gem "ruboty"
+gem "ruboty-alias"
+gem "ruboty-cron"
+gem "ruboty-google_image"
+gem "ruboty-redis"
+gem "ruboty-slack_rtm"
+gem "ruboty-http_status"
+gem "ruboty-github_status"

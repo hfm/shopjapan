@@ -7,8 +7,6 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
-    chrono (0.0.6)
-      activesupport
     dotenv (2.0.2)
     eventmachine (1.0.7)
     faraday (0.9.0)
@@ -37,12 +35,6 @@ GEM
       dotenv
       mem
       slop
-    ruboty-alias (0.0.8)
-      ruboty (>= 1.1.1)
-    ruboty-cron (1.0.1)
-      activesupport
-      chrono
-      ruboty (>= 0.2.0)
     ruboty-github_status (1.0.0)
       ruboty
     ruboty-google_image (0.0.7)
@@ -81,8 +73,6 @@ PLATFORMS
 DEPENDENCIES
   rake
   ruboty
-  ruboty-alias
-  ruboty-cron
   ruboty-github_status
   ruboty-google_image
   ruboty-http_status

@@ -3,8 +3,6 @@ ruby "2.2.2"
 
 gem "rake"
 gem "ruboty"
-gem "ruboty-alias"
-gem "ruboty-cron"
 gem "ruboty-google_image"
 gem "ruboty-redis"
 gem "ruboty-slack_rtm"

@@ -52,6 +52,10 @@ GEM
       ruboty (>= 1.1.4)
       slack-api (~> 1.0.0)
       slack-rtmapi (~> 1.0.0.rc4)
+    ruboty-weather (0.0.5)
+      faraday
+      faraday_middleware
+      ruboty (>= 0.2.0)
     slack-api (1.0.0)
       faraday (>= 0.7, <= 0.9)
       faraday_middleware (~> 0.8)
@@ -78,6 +82,7 @@ DEPENDENCIES
   ruboty-http_status
   ruboty-redis
   ruboty-slack_rtm
+  ruboty-weather
 
 BUNDLED WITH
    1.10.2
